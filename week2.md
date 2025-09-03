@@ -163,6 +163,63 @@ original contents in Chinese
 
 5. I watched a YouTube video and found that using ChatGPT for translation is actually more accurate than Google Translate. So I decided to try ChatGPT for my Chinese-to-English translation today.
 
+## 29/08/2025
+original contents in Chinese
+```
+1. 上次在练习英文口述时忘记外包要该怎么用英文去描述，我想到应该是说这样说: we ask for other company to help our work paid for their time and the contracts, which is a sign in each company got identical opinion
+2. 今天收到了保全的面试邀约，让我有点心动，其实在创业的实习做保全还是是一个不错的选择，至少还有点收入
+3. 滑TikTok的时候发现其实有很多视频在说儿童英语教我们怎么使用单质我将这些视频都收藏起来
+4. 这些儿童英语教学视频其实是不错的是素材可以拿来也可以拿来录制我练习口的视频将这些素材转录为我的声音
+5. 今天练哑铃推举尝试超越42.5公斤，可惜还是第一，没办法抬起，依然还是维持在40公斤的推举，在这个程度已经遇上瓶颈了半年左右了
+```
+#### GPT Modified
+1. Last time when I was practicing English speaking, I forgot how to describe “outsourcing.” I think it should be something like: we hire another company to help with our work, pay them for their time under a contract, and both companies agree on the same terms.
+
+2. I received a job interview invitation for a security guard position, and I’m kind of tempted. Honestly, doing security work while running a startup internship might be a good option—at least it brings in some income.
+
+3. While scrolling through TikTok, I noticed a lot of videos teaching children’s English and how to use simple sentences. I saved all of them.
+
+4. These children’s English teaching videos are actually great materials. I can also use them to record my own practice videos by transcribing the content and reading it in my own voice.
+
+5. I tried to push past 42.5 kg on the dumbbell shoulder press, but unfortunately I couldn’t lift it on the first attempt. I’m still stuck at 40 kg, and I’ve been at this plateau for about half a year now.
+
+## 30/08/2025
+Kitchen vocabulary:
+* ladle /ˈleɪd(ə)l/
+* kettle /ˈket(ə)l/
+* peeler /ˈpilər/
+* tongs /tɑːŋz/
+* mortar /ˈmɔrtər/
+* spatula /ˈspætʃələ/
+* crepe /kreɪp/ pan
+* apron /ˈeɪ.prən/
+* colander /ˈkʌləndər/
+
+original contents
+```
+1. I learned a kitchen vocabulary from TikTok, short video and I download this video to transcribe my voice then upload to the YouTube short
+2. I'm really grateful Mac has speech recognition which recognizing my voice speech and I don't need to type any word on keyboard. It's really relaxed for me.
+3. I think speaking should make your brain peace so it's more most naturally when humans speak and I had watched many YouTube said biting language with speaker always don't translate their language to speak.
+4. I also found a good YouTube channel for listening English. There are many of material for learning and and this video are really nice for beginner. I can listen on my bed and make my brain take easy. I don't need to always stare at my phone or screen to listen.
+5. I think I finally find a monster suitable study English strategy for me. This method keep my mind and a brain taking easy and relax. I think speaking is always in comfortable and relax way.
+```
+#### GPT Modified
+1. I learned ~~a kitchen vocabulary from TikTok, short video and I download this video to transcribe my voice then upload to the YouTube short~~ 
+   <span style="color:green">some kitchen vocabulary from a TikTok short video. I downloaded this video to practice by transcribing my voice and then uploaded it to YouTube Shorts.</span>
+
+2. I'm really grateful ~~Mac has speech recognition which recognizing my voice speech and I don't need to type any word on keyboard. It's really relaxed for me.~~  
+   <span style="color:green">that my Mac has speech recognition, which recognizes my speech so I don’t need to type on the keyboard. It makes me feel really relaxed.</span>
+
+3. I think ~~speaking should make your brain peace so it's more most naturally when humans speak and I had watched many YouTube said biting language with speaker always don't translate their language to speak.~~  
+   <span style="color:green">speaking should make your brain calm, so it feels more natural when people talk. I watched many YouTube videos saying that fluent speakers don’t translate their language while speaking.</span>
+
+4. I also found ~~a good YouTube channel for listening English. There are many of material for learning and and this video are really nice for beginner. I can listen on my bed and make my brain take easy. I don't need to always stare at my phone or screen to listen.~~  
+   <span style="color:green">a good YouTube channel for listening to English. There are many learning materials, and the videos are really nice for beginners. I can listen on bed and let my brain relax. I don’t need to always stare at my phone or screen.</span>
+
+5. I think ~~I finally find a monster suitable study English strategy for me. This method keep my mind and a brain taking easy and relax. I think speaking is always in comfortable and relax way.~~  
+   <span style="color:green">I finally found a really suitable English study strategy for me. This method keeps my mind relaxed and makes learning easier. I believe speaking should always feel comfortable and relaxed.</span>
+
+
 
 此外，用markdown的语法来标注修改的地方，例如错误的字或表达划线出来，并将增修改的部分用绿色显示出来。
 
