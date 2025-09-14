@@ -343,3 +343,23 @@ original contents
     * "made me realize that spending time with my family is more important than my career." → 语法正确，但稍微改为 spending time with my family is more important than chasing a career，语气更口语。
 
     * "Maybe it’s because my career failed and only my family is left that I would say this." → 语法有点笨重，改成 Maybe I only feel this way because the business didn’t work out and my family is all I have left，表达更流畅。
+
+## 13/09/2025
+original contents
+```
+1. I already applied for retaking test of lifeguard. I was informed that I need to pay the payment of the participation then I can skip the baby safe class. I can compensate it after the test end.
+2. I started learning Taiwanese and spoke to my mom more often when she was home. I was afraid that I wouldn't be able to learn it when she was not around, and I would definitely regret not learning and speaking to her properly.
+3. I finally got a part-time job interview on Monday. I hope they won't ask too many details, since my resume is fake.
+4. I don't know why I applied for so many part-time job applications, but only one emailed me back to ask me to interview. Maybe for these kinds of jobs, you have to go in person and submit your resume to have a chance.
+5. Learning Taiwanese recently has made me realize that there is a need for an app that can help people learn the translation function from Mandarin to Taiwanese. This time, I think I must find investment first before I can start working on it.
+```
+#### GPT Modified
+1. ~~I already applied for retaking test of lifeguard. I was informed that I need to pay the payment of the participation then I can skip the baby safe class. I can compensate it after the test end.~~ <span style="color:green">I already applied to retake the lifeguard test. I was told that I need to pay the participation fee, and then I can skip the baby safety class. I can make up for it after the test ends.</span>
+
+2. ~~I started learning Taiwanese and spoke to my mom more often when she was home. I was afraid that I wouldn't be able to learn it when she was not around, and I would definitely regret not learning and speaking to her properly.~~ <span style="color:green">I started learning Taiwanese and began talking with my mom more often when she was home. I was worried that if I didn’t learn while she was around, I’d regret not practicing and speaking with her properly.</span>
+
+3. ~~I finally got a part-time job interview on Monday. I hope they won't ask too many details, since my resume is fake.~~ <span style="color:green">I finally got a part-time job interview on Monday. I just hope they don’t ask for too many details, because my resume isn’t real.</span>
+
+4. ~~I don't know why I applied for so many part-time job applications, but only one emailed me back to ask me to interview. Maybe for these kinds of jobs, you have to go in person and submit your resume to have a chance.~~ <span style="color:green">I don’t know why I applied for so many part-time jobs, but only one company emailed me back for an interview. Maybe for these kinds of jobs, you have to apply in person and hand in your resume to get a chance.</span>
+
+5. ~~Learning Taiwanese recently has made me realize that there is a need for an app that can help people learn the translation function from Mandarin to Taiwanese. This time, I think I must find investment first before I can start working on it.~~ <span style="color:green">Recently, while learning Taiwanese, I realized there’s a need for an app that helps people translate from Mandarin to Taiwanese. This time, I think I should find investors first before I start working on it.</span>
