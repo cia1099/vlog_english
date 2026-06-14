@@ -42,5 +42,11 @@ origin contents
 ### 29/05/2026
 origin contents
 ```
-I proactive done my responsible project, I thought engineer come from vision to trading system is hight to end level to solve traditional software projects.
+1. I was really busy last month because I was assigned new project. This project is the first one I hand by that high-level managers take care much about it.
+2. The purposes are very easy, my task is to receive the server of FPGA's response when our middleware trading system order stocks.
+3. It is the most difficult that my maintaining old system whose code is very unreadable there are many duplicated code. One file can have exceeded 10,000 code lines.
+4. The ancestor employees didn't have any perspective on design pattern. They always coded a process orientation style, even the system written in C++. No wonder the original employees were quit this position. The code base is too awful to scale.
+5. I spent most of time understanding the messy pile of shit. Due to my 丰富 experience, I can quickly detect where I can skip and somewhere I need to dive into the details.
+6. I took a month to finish my responsible duty, which is outstanding my manager's expectation. She think labor should spend at least 2 months to done this task. 
+7. I proactive done my responsible project, I thought engineer come from vision to trading system is hight to end level to solve traditional software projects such like data queue, information line, database management and delegation design interface.
 ```
