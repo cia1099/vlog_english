@@ -44,6 +44,10 @@ since AI can amplify the single person of power, I thought I can try to publish 
 ## 05/06/2026
 origin contents
 ```
-In traditional finance company, the most benefit is their works are easy for me and no pressure on schedule. The drawback are the office like zombie and 嚴格的 clocking in/out rule.    
+1. In traditional finance company, their develop schedule seems not very urgent as tech company. The main problem on delay is always on security permission procedure.
+2. When we sign the document for applying permission, the process takes long time. There are many managements need to sign and agree the permission.
+3. So our developing time seems extending while we are waiting for the permission agreement.
+4. It is really different from tech company before I work in. I have more idle time when I finished my job. Moreover their projects are also easy for me, the most difficult is their code are messy and unreadable names on variables.
+5. Thank for opening copilot in my company, I can study deeply on how to master CLI tool now after I finishing my job. Otherwise, I will be nothing to do and feel wasting time that I have to sit on my position everyday.    
 ```
 
