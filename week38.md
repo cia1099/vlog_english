@@ -19,7 +19,7 @@ origin content
 ```
 1. I am not afraid of talking to women on the street now. I start considering been refused is nothing.
 2. Moreover, even a woman give you account of social media. She often doesn't reply you. I think it maybe my posts in my media are just showing my naked body therefore make them silence.
-3. But I can feel I have improvement on talking to strangers, I don't feel nervous and never chat like 支支吾吾. I can speak fluently in front of her. I think the key point is that you shouldn't care what her reaction.
+3. But I can feel I have improvement on talking to strangers, I don't feel nervous and never chat like murmur. I can speak fluently in front of her. I think the key point is that you shouldn't care what her reaction.
 4. I have tried and practiced many times to talk to stranger. I think it is award for my practicing. It proves every skill can be train depends on what you want to pick it up in your skills.
 5. I overcomes my fear of talking to women, I believe I can speak English one day if I keep going. It encourages me to continue practicing English even I haven't seen any realistic improvement.  
 ```
