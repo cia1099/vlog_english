@@ -24,3 +24,13 @@ origin content
 4. He still insisted holding on battling the whole game every time. I really respect him, but the performance he made is actually not good enough compare to Messy, Mbappe and Harland.
 5. I feel sadness and can't no admit that effort can't beat talent. I think CR7 is the most hard work man in the world. He still can't overcome the 詛咒 of old it means old men like us should give up 掙扎, we can only do is hugging our failure and waiting for die.      
 ```
+
+## 17/07/2026
+origin contents
+```
+1. I was found too relax on my work by manager so she started giving more works and wondered increasing burden on me.
+2. I thought I should pretend busy and hide using AI tool to express I was hard working. Otherwise, I am worry about company knowing the power of AI and considering shrinking engineers. As the result, every employee will lose job.
+3. My performance and attitude are out perform recently, because the works in finance business are too easy for me. Especially I am the user of AI in my department where is rare AI user.
+4. I suggest that every employee should take 低調 and not show off efficiency. In AI era, you should thief time as possible as you can, on the contrary you would make others loss job. That is not us want to achievement.
+5. I can begin building my personal project in office now, using Copilot CLI with company's token. I am very enjoy in my work now so I mention keeping work hard until I create a business which can afford my life.
+```
