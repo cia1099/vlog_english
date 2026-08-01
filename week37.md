@@ -14,6 +14,19 @@ origin contents
 6. Even though our company provide quota for employees, I still feel my colleagues they don't have much interesting in it. They are still believing code line by line and stubborn past work flow. I think that is because of culture of company. Finance company don't like new stuff and fear revolution. 
 ```
 
+### GPT modified
+1. Our company has started using Copilot, and the Copilot CLI can also work with Claude Code's markdown files.
+
+2. You don't need to rename all the CLAUDE.md files in your project. The Copilot CLI can read those files automatically when you open the terminal.
+
+3. It feels like every tech company is building AI tools and copying each other's features. Because of that, most AI tools can now work with the same markdown file names.
+
+4. I'm really excited because I'm already used to Claude Code. It has completely changed the way I work. It's kind of like how we don't look things up on Stack Overflow anymore—we just ask AI instead.
+
+5. The best part is that we can use AI for free. I'm still trying out different AI tools to see how I can use them in my daily work. I think the employee quota is more than enough for me to get used to these tools. Before the company provided it, we had to pay for it ourselves, so we didn't want to spend too much time trying things out.
+
+6. Even though our company gives employees an AI quota, I still feel that many of my coworkers aren't very interested in it. They still prefer to write code line by line and stick to their old workflow. I think that's because of the company's culture. Finance companies usually don't like trying new things and are afraid of big changes.
+
 ## 02/06/2026
 origin contents
 ```
@@ -23,6 +36,8 @@ origin contents
 4. Why I have such conclusion because whenever I had been aboard. While I was taking there public transportation frequently, I would always get cold unluckily.
 5. I rarely take medicine to recover illness. I believe antivirus in body is the best cure for human being. Don't rely on extra medicine therefore your body can be training 抵抗 invasion.  
 ```
+
+
 
 ## 03/06/2026
 origin contents

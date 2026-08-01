@@ -24,15 +24,36 @@ origin content
 5. I overcomes my fear of talking to women, I believe I can speak English one day if I keep going. It encourages me to continue practicing English even I haven't seen any realistic improvement.  
 ```
 
+### GPT modified
+1. I'm not afraid of talking to women on the street anymore. I've started to see getting rejected as no big deal.
+
+2. What's more, even if a woman gives you her social media account, she often doesn't reply. I think it might be because my posts mostly show my shirtless body, so they stop replying or just leave me on read.
+
+3. But I can tell I've gotten better at talking to strangers. I don't get nervous anymore, and I don't mumble when I talk. I can speak smoothly in front of them. I think the key is not to care too much about how they react.
+
+4. I've gone out and practiced talking to strangers many times. I think this is the result of all that practice. It shows that almost any skill can be trained if you're willing to keep working at it and stick with it.
+
+5. I've overcome my fear of talking to women, so I believe I'll be able to speak English fluently one day if I keep going. It keeps me motivated to practice English because I've started to see a little improvement.
+
 ## 10/06/2026
 origin content
 ```
-1. I recently traded Bitcoin 放空, I found it really impacted my mood in life. The Bitcoin price changes really 剧烈. I always check my phone to watch the latest price.
+1. I recently traded Bitcoin 放空, I found it really impacted my mood in life. The Bitcoin price changes really dramatic. I always check my phone to watch the latest price.
 2. Especially I bet 20 times leverage to sell it. I felt very high blood and panic, when there a numerous buy, I will be broke my storage.
 3. I can understand traders mood right now, and why most book says the emotion is the most enemy in trading. You will break your trading rule and model while your mood is unstable.
 4. I think that is normal for human being, because people hate lose and no one willing to admit they are lose. I admit have lost 500 dollars now.
 5. I am still expecting Bitcoin will degrade, because of AI. The most investing money turns to AI related stocks and companies. Crypto is just an idle and 投机 money.
 ```
+### GPT modified
+1. I recently started shorting Bitcoin, and I found that it really affects my mood. The price moves up and down so fast that I keep checking my phone to see the latest price.
+
+2. I'm using 20x leverage, so every price move feels huge. My blood pressure goes up, and I start to panic whenever there is a lot of buying. If the price keeps going up, I could lose all my margin.
+
+3. Now I understand how traders feel and why so many trading books say that emotions are your biggest enemy. When your emotions take over, it's easy to break your trading rules and ignore your trading plan.
+
+4. I think that's normal because people hate losing, and no one wants to admit they are wrong. So far, I've lost about 500 dollars, and I can admit that.
+
+5. I still think Bitcoin will go down because of AI. More and more investment money is flowing into AI-related stocks and companies. To me, a lot of money in crypto is just sitting there for speculation.
 
 ## 11/06/2026
 origin content

@@ -25,6 +25,17 @@ origin content
 5. I feel sadness and can't no admit that effort can't beat talent. I think CR7 is the most hard work man in the world. He still can't overcome the 詛咒 of old it means old men like us should give up 掙扎, we can only do is hugging our failure and waiting for die.      
 ```
 
+### GPT modified
+1. I was really depressed when I found out that Portugal lost the World Cup. I also lost my bet. The worst part was that CR7 went out of the tournament, and that might have been his last World Cup.
+
+2. I look up to him as the best role model and the spirit of middle-aged men. He showed us that age is just a number, not something that has to hold us back.
+
+3. However, he still ended up losing after fighting until the very end. Many people say he is too old to keep up for a full game.
+
+4. Even so, he never gave up. He kept fighting until the final whistle in every game. I really respect him, but I have to admit that his performance was not as good as Messi, Mbappé, or Haaland.
+
+5. I feel sad, and I can't help but admit that hard work can't always beat talent. I think CR7 is one of the hardest-working people in the world. If even he couldn't beat getting old, maybe it means people like us will eventually have to give up fighting. All we can do is hold on, accept our failures, and wait for death.
+
 ## 17/07/2026
 origin contents
 ```
